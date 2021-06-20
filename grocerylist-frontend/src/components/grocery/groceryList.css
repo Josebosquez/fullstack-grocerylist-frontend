@@ -1,0 +1,23 @@
+#done-button {
+    padding: 10px 10px;
+    background-color: lightgreen;
+    border-radius: 5px 5px;
+    color: black;
+    border-style: none;
+}
+
+#delete-button {
+    padding: 10px 10px;
+    background-color: lightblue;
+    border-radius: 5px 5px;
+    color: black;
+    border-style: none;
+}
+
+#edit-button {
+    padding: 10px 10px;
+    background-color: rgb(190, 71, 16);
+    border-radius: 5px 5px;
+    color: black;
+    border-style: none;
+}
