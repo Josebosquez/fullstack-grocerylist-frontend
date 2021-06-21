@@ -4,8 +4,8 @@ export class Button extends Component {
     render() {
         return (
         <React.Fragment>
-            <button onClick= {() => 
-            this.props.onClick()}
+            <button 
+            onClick= {() => this.props.clickFunc()}
             id={this.props.id}
             >
 
